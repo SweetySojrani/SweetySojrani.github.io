@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: Achievements
+more_title: Achievements
 more_content: | # this will include new lines to allow paragraphs
    - Best project of the year award at Eaton for ‘Innovation’ and got 5/5 Customer Satisfaction Score for most of the projects
    - Received 16 E-star awards from Project Manager, Resource Manager, Project Sponsors at Eaton
