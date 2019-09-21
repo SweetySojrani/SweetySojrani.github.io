@@ -16,9 +16,8 @@
   job_title: Senior System Engineer
   dates: Sep 2015 - Oct 2016
   description: | # this will include new lines to allow paragraphs
-    Designed and Implemented solutions on Oracle Reports, Extensions, Data Conversion programs for Motorola Client Oracle R12         implementation <br />
+    Designed and Implemented solutions on Oracle Reports, Extensions, Data Conversion programs for Motorola Client Oracle R12         implementation. <br />
     Implemented functional knowledge of Account Receivable, Fixed Asset, Services Modules, Project, Payable, Cash Management, Inventory.<br />
-    Applied Oracle EDQ (Enterprise Data Quality) knowledge to migrate data effectively from legacy system to new Oracle R12 system.<br />
     Developed Unix Shell Scripts for automatic migration of programs to Oracle R12 system.
 
 - layout: left
@@ -30,6 +29,6 @@
      Developed, Configured, & Supported financial interfaces in integration suite, and Concur Implementations.<br />
      Performed data conversion of multilingual characters; Data Loaders, Validation, Troubleshooting and Warranty support.<br />
      Implemented end to end project lifecycle individually on Financial Reports, Form Personalization, Alert, Workflow solutions.<br />
-     Automated Data Loading and Configuration solutions for Oracle R12 upgrade project which increased efficiency by 400%.
+     Automated configuration migration solutions for Oracle R12 upgrade project which increased efficiency by 400%.
     
 
