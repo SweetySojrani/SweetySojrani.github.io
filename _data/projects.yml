@@ -32,7 +32,7 @@
     Compared F1 score from three predictive models(Random Forest, SVM, KNN) for predicting the image class, based on the objects in the traffic images using Python
     
     - layout: left
-  name:  Medium Stories - Analysis and Predictions
+  name:  Medium Stories Prediction
   github: SweetySojrani/MediumStories
   description: | # this will include new lines to allow paragraphs
     Assist users to write effective articles; help users to generate tags; Predictive keyboard for writing articles using Python
