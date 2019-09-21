@@ -4,9 +4,9 @@
   job_title: IT Intern Salesforce Administrator
   dates: May 2019 - Aug 2019
   description: | # this will include new lines to allow paragraphs
-    Integrated Salesforce CRM and Service-Now application to automate the ticket creation process for Sales and Marketing team.
-    Created a custom salesforce UI implementation of visualforce to access the Flash Array sizer from SFDC.
-    New opportunity stage implementation by developing custom fields, permission sets, validation rules.
+    Integrated Salesforce CRM and Service-Now application to automate the ticket creation process for Sales and Marketing team.<br />
+    Created a custom salesforce UI implementation of visualforce to access the Flash Array sizer from SFDC.<br />
+    New opportunity stage implementation by developing custom fields, permission sets, validation rules.<br />
     Deployed changes of metadata and apex classes using Ant Migration tool that reduce deployment time by 300%.
 
 
@@ -16,11 +16,11 @@
   job_title: Senior System Engineer
   dates: Sep 2015 - Oct 2016
   description: | # this will include new lines to allow paragraphs
-    Performed Software Development lifecycle on Oracle Reports in Account Receivable, Fixed Asset, and Services Modules.
-    Retrofitted the existing 30 RICE (Report Interface Conversion Extension) objects for Oracle R12 Migration.
-    Developed Extensions in Oracle’s Project, and Payable modules.
-    Applied Oracle EDQ (Enterprise Data Quality) knowledge to migrate data effectively from legacy system to new Oracle R12 system.
-    Designed and Built Data Conversion Programs in Oracle Services, Cash Management, and Inventory modules.
+    Performed Software Development lifecycle on Oracle Reports in Account Receivable, Fixed Asset, and Services Modules.<br />
+    Retrofitted the existing 30 RICE (Report Interface Conversion Extension) objects for Oracle R12 Migration.<br />
+    Developed Extensions in Oracle’s Project, and Payable modules.<br />
+    Applied Oracle EDQ (Enterprise Data Quality) knowledge to migrate data effectively from legacy system to new Oracle R12 system.<br />
+    Designed and Built Data Conversion Programs in Oracle Services, Cash Management, and Inventory modules.<br />
     Implemented Unix Shell Scripts for automatic migration of programs to Oracle R12 system.
 
 - layout: left
@@ -29,9 +29,9 @@
   job_title: Analyst IT
   dates: Jul 2011 - Jul 2015
   description: | # this will include new lines to allow paragraphs
-     Developed, Configured, & Supported financial interfaces in integration suite, and Concur Implementations.
-     Performed data conversion of multilingual characters; Data Loaders, Validation, Troubleshooting and Warranty support.
-     Implemented end to end project lifecycle individually on Financial Reports, Form Personalization, Alert, Workflow solutions.
-     Automated Data Loading and Configuration solutions for Oracle R12 upgrade project which increased efficiency by 400%.
+     Developed, Configured, & Supported financial interfaces in integration suite, and Concur Implementations.<br />
+     Performed data conversion of multilingual characters; Data Loaders, Validation, Troubleshooting and Warranty support.<br />
+     Implemented end to end project lifecycle individually on Financial Reports, Form Personalization, Alert, Workflow solutions.<br />
+     Automated Data Loading and Configuration solutions for Oracle R12 upgrade project which increased efficiency by 400%.<br />
      Implemented Risk, Change, Resource & Portfolio Management, and HP ALM tool for bugs management as Project Manager.
 
