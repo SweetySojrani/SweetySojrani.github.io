@@ -9,7 +9,8 @@
   name:  Starbucks API 
   github: SweetySojrani/Starbucks-Rest-API
   description: | # this will include new lines to allow paragraphs
-    Leveraged Distributed Systems and Cloud technologies for the SaaS application of Starbucks of Node.js front end and MongoDB database by     implementing AKF Scale Cube using AWS Autoscale and Load Balancer, Database sharding and replication on AWS EC2, splitting Golang API       by function; deployed in a docker container managed by Kubernetes
+    Leveraged Distributed Systems and Cloud technologies for the SaaS application of Starbucks of Node.js front end and MongoDB database.<br />
+    implemented AKF Scale Cube using AWS Autoscale and Load Balancer, Database sharding and replication on AWS EC2, splitting Golang API       by function; deployed in a docker container managed by Kubernetes
 
 - layout: left
   name:  Medical Text Classification 	
