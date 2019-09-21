@@ -10,10 +10,33 @@
   github: SweetySojrani/Starbucks-Rest-API
   description: | # this will include new lines to allow paragraphs
     Leveraged Distributed Systems and Cloud technologies for the SaaS application of Starbucks of Node.js front end and MongoDB database.<br />
-    implemented AKF Scale Cube using AWS Autoscale and Load Balancer, Database sharding and replication on AWS EC2, splitting Golang API       by function; deployed in a docker container managed by Kubernetes
+    Implemented AKF Scale Cube using AWS Autoscale and Load Balancer, Database sharding and replication on AWS EC2, splitting Golang API       by function; deployed in a docker container managed by Kubernetes
 
 - layout: left
   name:  Medical Text Classification 	
   github: SweetySojrani/Medical-Text-Classification
   description: | # this will include new lines to allow paragraphs
     Authored KNN classifier algorithm using cosine similarity metrics to identify the disease based on the description using Python.<br />     Performed data pre-processing by removing stop words and stemmers, punctuation and short words less than length 3
+
+- layout: left
+  name:  Movie Recommendation system 	
+  github: SweetySojrani/Movie-Recommendation-System
+  description: | # this will include new lines to allow paragraphs
+    Created a movie recommendation system using Alternating least squares technique using Python, Spark and Map Reduce
+    
+    - layout: left
+  name:  Traffic Image Classification	
+  github: SweetySojrani/Traffic-Image-Classification
+  description: | # this will include new lines to allow paragraphs
+    Extracted Color Histogram Hist features from the images which were used to train the model.<br />
+    Compared F1 score from three predictive models(Random Forest, SVM, KNN) for predicting the image class, based on the objects in the traffic images using Python
+    
+    - layout: left
+  name:  Medium Stories - Analysis and Predictions
+  github: SweetySojrani/MediumStories
+  description: | # this will include new lines to allow paragraphs
+    Assist users to write effective articles; help users to generate tags; Predictive keyboard for writing articles using Python
+    
+    
+    	                		                                   
+
