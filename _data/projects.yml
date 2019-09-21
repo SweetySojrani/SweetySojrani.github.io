@@ -2,10 +2,7 @@
   name: Safety Quotient Predictor
   github: SweetySojrani/SafetyQ
   description: | # this will include new lines to allow paragraphs
-    The application will provide safety predictions based on past crime data.</br>
-
-    Provides an SQP score and present a visual representation of crimes.</br>
-
-    Technologies used are React JS, Python Flask, MongoDB.</br> 
-
+    The application will provide safety predictions based on past crime data.<br />
+    Provides an SQP score and present a visual representation of crimes.<br />
+    Technologies used are React JS, Python Flask, MongoDB.<br />
     The application was deployed to AWS in a docker container managed by Kubernetes.
