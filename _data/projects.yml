@@ -2,7 +2,17 @@
   name: Safety Quotient Predictor
   github: SweetySojrani/SafetyQ
   description: | # this will include new lines to allow paragraphs
-    The application will provide safety predictions based on past crime data.<br />
-    Provides an SQP score and present a visual representation of crimes.<br />
-    Technologies used are React JS, Python Flask, MongoDB.<br />
-    The application was deployed to AWS in a docker container managed by Kubernetes.
+    The application will provide safety predictions based on past crime data.It provides an SQP score and presents Data Visualization of crimes.<br />
+    Technologies used are React JS, Python Flask, MongoDB.The application was deployed to AWS in a docker container managed by Kubernetes.
+
+- layout: left
+  name:  Starbucks API 
+  github: SweetySojrani/Starbucks-Rest-API
+  description: | # this will include new lines to allow paragraphs
+    Leveraged Distributed Systems and Cloud technologies for the SaaS application of Starbucks of Node.js front end and MongoDB database by     implementing AKF Scale Cube using AWS Autoscale and Load Balancer, Database sharding and replication on AWS EC2, splitting Golang API       by function; deployed in a docker container managed by Kubernetes
+
+- layout: left
+  name:  Medical Text Classification 	
+  github: SweetySojrani/Medical-Text-Classification
+  description: | # this will include new lines to allow paragraphs
+    Authored KNN classifier algorithm using cosine similarity metrics to identify the disease based on the description using Python.<br />     Performed data pre-processing by removing stop words and stemmers, punctuation and short words less than length 3
