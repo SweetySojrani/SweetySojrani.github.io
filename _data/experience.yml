@@ -4,4 +4,17 @@
   job_title: IT Intern Salesforce Administrator
   dates: May 2019 - Aug 2019
   description: | # this will include new lines to allow paragraphs
-    I integrated Salesforce and Service-Now to automate the ticket creation process for Sales and Marketing Team. I used Rest API 
+    I integrated Salesforce and Service-Now to automate the ticket creation process for Sales and Marketing Team. I implemented Rest API in Service Now and Apex class development in Salesforce CRM.
+
+- layout: left
+  company: IBM
+  link: https://www.ibm.com
+  job_title: Senior System Engineer
+  dates: Sep 2015 - Oct 2016
+  description: | # this will include new lines to allow paragraphs
+    Performed Software Development lifecycle on Oracle Reports in Account Receivable, Fixed Asset, and Services Modules
+Retrofitted the existing 30 RICE (Report Interface Conversion Extension) objects for Oracle R12 Migration
+Developed Extensions in Oracle’s Project, and Payable modules
+Applied Oracle EDQ (Enterprise Data Quality) knowledge to migrate data effectively from legacy system to new Oracle R12 system
+Designed and Built Data Conversion Programs in Oracle Services, Cash Management, and Inventory modules
+Implemented Unix Shell Scripts for automatic migration of programs to Oracle R12 system
