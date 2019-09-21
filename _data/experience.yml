@@ -16,12 +16,10 @@
   job_title: Senior System Engineer
   dates: Sep 2015 - Oct 2016
   description: | # this will include new lines to allow paragraphs
-    Performed Software Development lifecycle on Oracle Reports in Account Receivable, Fixed Asset, and Services Modules.<br />
-    Retrofitted the existing 30 RICE (Report Interface Conversion Extension) objects for Oracle R12 Migration.<br />
-    Developed Extensions in Oracle’s Project, and Payable modules.<br />
+    Designed and Implemented solutions on Oracle Reports, Extensions, Data Conversion programs for Motorola Client Oracle R12         implementation <br />
+    Implemented functional knowledge of Account Receivable, Fixed Asset, Services Modules, Project, Payable, Cash Management, Inventory.<br />
     Applied Oracle EDQ (Enterprise Data Quality) knowledge to migrate data effectively from legacy system to new Oracle R12 system.<br />
-    Designed and Built Data Conversion Programs in Oracle Services, Cash Management, and Inventory modules.<br />
-    Implemented Unix Shell Scripts for automatic migration of programs to Oracle R12 system.
+    Developed Unix Shell Scripts for automatic migration of programs to Oracle R12 system.
 
 - layout: left
   company: Eaton
@@ -32,6 +30,6 @@
      Developed, Configured, & Supported financial interfaces in integration suite, and Concur Implementations.<br />
      Performed data conversion of multilingual characters; Data Loaders, Validation, Troubleshooting and Warranty support.<br />
      Implemented end to end project lifecycle individually on Financial Reports, Form Personalization, Alert, Workflow solutions.<br />
-     Automated Data Loading and Configuration solutions for Oracle R12 upgrade project which increased efficiency by 400%.<br />
-     Implemented Risk, Change, Resource & Portfolio Management, and HP ALM tool for bugs management as Project Manager.
+     Automated Data Loading and Configuration solutions for Oracle R12 upgrade project which increased efficiency by 400%.
+    
 
