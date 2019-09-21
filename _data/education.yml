@@ -4,7 +4,7 @@
   qualification: MS Software Engineering
   description: | # this will include new lines to allow paragraphs
     Specialization: Data Science and Cloud Computing
-    | Coursework: Cloud Technologies, Machine Learning, Large Scale Analytics, Data Mining, Enterprise Software Development, Software Security
+    | # Coursework: Cloud Technologies, Machine Learning, Large Scale Analytics, Data Mining, Enterprise Software Development, Software Security
     
 - layout: left
   name: Cummins College of Engineering
