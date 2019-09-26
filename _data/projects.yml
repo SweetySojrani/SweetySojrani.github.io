@@ -35,7 +35,7 @@
   name:  Medium Stories Predictions
   github: SweetySojrani/MediumStories
   description: | # this will include new lines to allow paragraphs
-    Assist users to write effective articles; help users to generate tags; Predictive keyboard for writing articles using Python.
+    Assist users to write effective articles using Linear Regression, Random Forest Regression , Gradient Boosting Regression, Support Vector Regression; help users to generate tags using Multi label K Nearest Neighbor, Gaussian Naive Bayes; Predictive keyboard for writing articles using Long Short term memory of recurrent neural network	
     
     
     	                		                                   
