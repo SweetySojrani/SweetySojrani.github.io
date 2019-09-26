@@ -24,14 +24,14 @@
   description: | # this will include new lines to allow paragraphs
     Created a movie recommendation system using Alternating least squares technique using Python, Spark and Map Reduce.
     
-    - layout: left
+- layout: left
   name:  Traffic Image Classification	
   github: SweetySojrani/Traffic-Image-Classification
   description: | # this will include new lines to allow paragraphs
     Extracted Color Histogram Hist features from the images which were used to train the model.<br />
     Compared F1 score from three predictive models(Random Forest, SVM, KNN) for predicting the image class, based on the objects in the traffic images using Python.
     
-    - layout: left
+- layout: left
   name:  Medium Stories Predictions
   github: SweetySojrani/MediumStories
   description: | # this will include new lines to allow paragraphs
