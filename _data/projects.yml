@@ -22,7 +22,7 @@
   name:  Movie Recommendation system 	
   github: SweetySojrani/Movie-Recommendation-System
   description: | # this will include new lines to allow paragraphs
-    Created a movie recommendation system using Alternating least squares technique using Python, Spark and Map Reduce.
+    Created a movie recommendation system using collaborative filtering model of Alternating least squares technique using Python, Spark and Map Reduce.
     
 - layout: left
   name:  Traffic Image Classification	
